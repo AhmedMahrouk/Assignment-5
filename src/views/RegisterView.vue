@@ -5,7 +5,7 @@
     <div class="overlay">
       <div class="navbar">
         <h1>MyFlix</h1>
-        <a href="index.html" class="button login">Login</a>
+        <RouterLink to="/login" class="button login">Login</RouterLink>
       </div>
       <div class="form-container">
         <h2>Create an Account</h2>
